@@ -1,0 +1,9 @@
+/.vscode
+/dist
+/asec
+/asec.exe
+/config.json
+/log/*
+*.zip
+*.tar.gz
+/static/cdncache

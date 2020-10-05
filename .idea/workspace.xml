@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa1015ef-da47-419e-b9b6-6857046900d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="ProjectId" id="1iSL66irgfXSoXSN1564edfDV9j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoProjectSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyCode\GoCode\src\asec\utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestSHA256Hash in asec/data" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="asec" />
+      <working_directory value="$PROJECT_DIR$/data" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="asec/data" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestSHA256Hash\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestSHA256Hash in asec/data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#Deployment" timestamp="1601904868782">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="75" key="#Deployment/0.0.1536.834@0.0.1536.834" timestamp="1601904868782" />
+    <state x="561" y="250" key="#Go_Modules" timestamp="1601895881758">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="561" y="250" key="#Go_Modules/0.0.1536.834@0.0.1536.834" timestamp="1601895881758" />
+    <state x="345" y="62" key="#SSH_Configurations" timestamp="1601904404256">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="345" y="62" key="#SSH_Configurations/0.0.1536.834@0.0.1536.834" timestamp="1601904404256" />
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601897723539">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1601897723539" />
+    <state width="746" height="213" key="GridCell.Tab.0.bottom" timestamp="1601909026707">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601909026707" />
+    <state width="746" height="213" key="GridCell.Tab.0.center" timestamp="1601909026707">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601909026707" />
+    <state width="746" height="213" key="GridCell.Tab.0.left" timestamp="1601909026706">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601909026706" />
+    <state width="746" height="213" key="GridCell.Tab.0.right" timestamp="1601909026707">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601909026707" />
+    <state x="270" y="61" key="SettingsEditor" timestamp="1601897889854">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="61" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1601897889854" />
+    <state x="709" y="30" width="602" height="804" key="find.popup" timestamp="1601911168382">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="709" y="30" width="602" height="804" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1601911168382" />
+    <state x="647" y="147" key="ftp.server.browser" timestamp="1601904865332">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="647" y="147" key="ftp.server.browser/0.0.1536.834@0.0.1536.834" timestamp="1601904865332" />
+  </component>
+</project>

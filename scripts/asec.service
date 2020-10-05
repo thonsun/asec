@@ -1,0 +1,14 @@
+[Unit]
+Description=Asec Application Gateway
+Documentation=http://www.asec.com/
+After=network.target
+After=postgresql.service
+ 
+[Service]
+Type=simple
+ExecStart=/usr/local/asec/asec
+Restart=always
+ 
+[Install]
+WantedBy=multi-user.target
+

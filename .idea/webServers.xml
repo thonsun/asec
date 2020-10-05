@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7612e1ac-6bf3-406a-8266-71e34b5b7f7d" name="gateway">
+        <fileTransfer accessType="SFTP" host="gateway" port="22" sshConfigId="cac6063f-9bcf-4a80-ad44-46704b53e70b" sshConfig="thonsun@gateway:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
